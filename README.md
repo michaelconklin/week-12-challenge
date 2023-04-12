@@ -1,1 +1,1 @@
-# week-12-challenge
+# week-12-challenge: SQL Employee Tracker
